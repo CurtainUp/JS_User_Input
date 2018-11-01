@@ -1,0 +1,39 @@
+{
+  "legoCreations": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "creation": "Black Cow"
+    },
+    {
+      "creator": "greg",
+      "color": "red",
+      "shape": "oblong",
+      "creation": "vase",
+      "id": 2
+    },
+    {
+      "creator": "elyse",
+      "color": "red",
+      "shape": "square",
+      "creation": "mastadon",
+      "id": 3
+    },
+    {
+      "creator": "jim",
+      "color": "red",
+      "shape": "castle",
+      "creation": "hyland",
+      "id": 4
+    },
+    {
+      "creator": "god",
+      "color": "red",
+      "shape": "damnit",
+      "creation": "cmon",
+      "id": 5
+    }
+  ]
+}
